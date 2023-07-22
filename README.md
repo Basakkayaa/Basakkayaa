@@ -1,7 +1,7 @@
 <h1 align="center">Hello there 👋🏻, I'm Basak Kaya </h1>
 <p align="center">
   <a href="basakkayaaa1@gmail.com"><img src="https://img.icons8.com/bubbles/75/000000/gmail.png" alt="Gmail"/></a>
-	<a href="www.linkedin.com/in/basakkayaaa"><img src="https://img.icons8.com/bubbles/75/000000/linkedin.png" alt="linkedin"/></a>
+	<a href="https://www.linkedin.com/in/basakkayaaa/"><img src="https://img.icons8.com/bubbles/75/000000/linkedin.png" alt="linkedin"/></a>
  </p> 
 <br/>
 
