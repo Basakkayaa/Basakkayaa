@@ -15,8 +15,8 @@ I'm
 
   <h2 align="left">Languages and Tools I Use</h2>
 
-| HTML | CSS | Figma |
-| :-: | :-: | :-:|
+| HTML | CSS | Figma | JavaScript|
+| :-: | :-: | :-:| :-:|
 |<img align="center" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" width="40" height="40"/>|<img align="center" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="40" height="40"/>|<img align="center" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>|
 
 <h2 align="left">My Stats</h2>
